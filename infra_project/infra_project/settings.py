@@ -8,7 +8,6 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['51.250.15.194', ]
 
-
 INSTALLED_APPS = [
     'infra_app.apps.InfraAppConfig',
     'django.contrib.admin',
